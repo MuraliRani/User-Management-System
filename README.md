@@ -62,12 +62,6 @@ src/
   types/           # TypeScript types
 ```
 
-## 🖼️ Screenshots
-
-| Dashboard | Todos | Profile |
-|-----------|-------|---------|
-| ![Dashboard](https://user-images.githubusercontent.com/placeholder/dashboard.png) | ![Todos](https://user-images.githubusercontent.com/placeholder/todos.png) | ![Profile](https://user-images.githubusercontent.com/placeholder/profile.png) |
-
 ## 🛠️ Contributing
 
 Pull requests are welcome! For major changes, please open an issue first.
